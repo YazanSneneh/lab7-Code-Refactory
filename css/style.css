@@ -1,0 +1,47 @@
+body {
+  background-color: #f3eac2;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+
+/* nav */
+nav {
+  background-color: #ec524b;
+  color: #fff;
+  padding: 15px 55px;
+}
+.logo {
+  display: inline-block;
+}
+.links {
+  text-align: right;
+}
+
+.links li {
+  display: inline;
+  margin: 0 15px;
+}
+
+header {
+  clear: right;
+  padding: 200px;
+}
+
+.big-heading {
+  font-size: 2rem;
+  position: relative;
+  bottom: 200px;
+  left: 400px;
+}
+
+main {
+  background-color: #ec524b;
+  padding: 200px;
+}
